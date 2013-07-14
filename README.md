@@ -1,6 +1,6 @@
 pruebagitywin
 =============
 
-prueba para giy y windows 
+prueba para git y windows 
 
 basicamente es un test.
